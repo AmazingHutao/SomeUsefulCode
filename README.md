@@ -1,3 +1,3 @@
 # GetAdminRight
-use batch file to get administrator right \n
+use batch file to get administrator right 
 *How to use? Just open it and use it*
