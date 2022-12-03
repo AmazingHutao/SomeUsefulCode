@@ -1,5 +1,8 @@
 # SomeUsefulCode
 In these files, I'll make some useful code in it, you can learn it or use it as a template.                                            
+
+***
+
 ## We have some useful function in it:                 
 1. Get administrator right.                                
 - Because batch sometimes need administrator rights, it won't give you a massage.                       
