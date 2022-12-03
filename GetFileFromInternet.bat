@@ -1,0 +1,1 @@
+powershell -c "Invoke-WebRequest -Uri 'https://www.website.com/file.zip' -OutFile 'c:\temp\file.zip'"
