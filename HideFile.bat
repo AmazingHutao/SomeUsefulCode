@@ -1,0 +1,1 @@
+attrib +s +h C:\lol.txt rem 隱藏檔案
